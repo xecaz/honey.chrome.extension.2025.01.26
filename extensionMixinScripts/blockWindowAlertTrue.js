@@ -1,1 +1,3 @@
-"use strict";window.alert=()=>!0;
+"use strict";
+
+window.alert = () => !0;

@@ -1,1 +1,3 @@
-"use strict";window.prompt=()=>{};
+"use strict";
+
+window.prompt = () => {};
